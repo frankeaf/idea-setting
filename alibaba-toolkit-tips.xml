@@ -1,6 +1,8 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/git/Jiar-Cloud" firstStartUp="false" />
+    <entry projectName="D:/git/RuoYi-Cloud" firstStartUp="false" />
     <entry projectName="D:/git/jeecg-boot/jeecg-boot" firstStartUp="false" />
     <entry projectName="D:/git/open-capacity-platform" firstStartUp="false" />
   </component>
